@@ -11,7 +11,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.image("UNRC.png", caption="Universidad Nacional Rosario Castellanos", width=550)
+st.image("UNRC.png", caption="Universidad Nacional Rosario Castellanos", width=300)
 
 st.set_page_config(page_title="Índice SHF de Precios de la Vivienda en México: Evolución anual por municipio", page_icon="📈", layout="centered")
 
